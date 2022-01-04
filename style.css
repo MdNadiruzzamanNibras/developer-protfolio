@@ -1,6 +1,7 @@
 body{font-family: 'Poppins', sans-serif;
 margin: 0;}
-h1{font-size: 500x;}
+h1{font-size: 50px;} 
+h2{font-size: 30px;}
 .orange{color: orange;}
 .flexiblae-container-area{
     display: flex;
