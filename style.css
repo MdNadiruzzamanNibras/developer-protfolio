@@ -5,6 +5,7 @@ h2{font-size: 30px;}
 .orange{color: orange;}
 .flexiblae-container-area{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
